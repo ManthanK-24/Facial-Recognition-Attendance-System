@@ -7,6 +7,7 @@ It has been implemented in **Python** and powerful libraries <br>
 # Powerful Libraries:=
 - **OpenCV's CV2**
 - **Numpy**
+- **Face-Recognition**
 - **OS** 
 - **DateTime**
 
